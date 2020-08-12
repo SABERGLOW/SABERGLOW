@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-
+<a href="https://github.com/SABERGLOW/"><img align="right" width="190" height="190" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
   - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK </a>.
   - 🎓 I'm sudying Computer Science Engineering at BME, Budapest. 𝙸'm expecting to graduate in 2022.
   - 🎯 I'm currently learning Java Fundamentals & SE Specialization at Coursera.
