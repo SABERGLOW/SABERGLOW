@@ -44,7 +44,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/SABERGLOW/">
-  <img width= "42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=gruvbox" /></a>
+  <img width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=gruvbox" /></a>
   
 <p>&nbsp;</p>
 
