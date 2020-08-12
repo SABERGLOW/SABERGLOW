@@ -29,7 +29,7 @@
 
 <p>&nbsp;</p>
 
-## Contact Me
+## ☎️ Contact Me
 <p align="center">
 <a href = "mailto:wali6985@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/SABERGLOW><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
@@ -39,7 +39,7 @@
 
 <p>&nbsp;</p>
 
-## My Stats:
+## 📈 My Stats:
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
@@ -48,7 +48,7 @@
   
 <p>&nbsp;</p>
 
-## My Projects:
+## 🚀 My Projects:
 
 <p align="center">
 <a href="https://github.com/SABERGLOW/Clrd.">
