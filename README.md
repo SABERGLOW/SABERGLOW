@@ -14,7 +14,7 @@
 
 <p>&nbsp;</p>
 
-## 👨🏻‍💻 My Skills:
+## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
