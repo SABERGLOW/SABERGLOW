@@ -46,14 +46,12 @@
 
 <p>&nbsp;</p>
 
-## 📈 My Stats:
+## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=plastic" /></a>
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/SABERGLOW/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=gruvbox" /></a>
-    <a href="https://github.com/SABERGLOW">
-  <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=plastic" /></a>
   
 <p>&nbsp;</p>
 
