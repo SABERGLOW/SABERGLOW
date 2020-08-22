@@ -46,7 +46,7 @@
 
 <p>&nbsp;</p>
 
-## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=plastic" /></a>
+## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
 <a href="https://github.com/SABERGLOW">
   <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
