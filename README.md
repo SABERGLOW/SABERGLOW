@@ -18,8 +18,8 @@
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="42" height="42"/> 
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="42" height="42"/> 
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="43" height="43"/> 
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="43" height="43"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" alt="python" width="48" height="48"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="48" height="48"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="48" height="48"/> 
