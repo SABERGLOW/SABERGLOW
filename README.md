@@ -8,7 +8,7 @@
   - 👨‍💻 I'm an Online Tutor at <a href = "https://www.hkcodingcamp.com/"> HK Coding Camp </a>.
   - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK </a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2022.
-  - 🎯 I'm currently doing <a href="https://www.coursera.org/specializations/java-programming"> SE Fundamentals Specialization in Java Programming at Coursera </a>.![80%](https://progress-bar.dev/80)
+  - 🎯 I'm currently doing <a href="https://www.coursera.org/specializations/java-programming"> SE Fundamentals Specialization in Java Programming at Coursera </a>.![95%](https://progress-bar.dev/95)
   - 🚀 I'm working on improving my project <a href = "https://github.com/SABERGLOW/Clrd."> Clrd.</a> which is about a simple webpage for fun photofilters.
   - 📧 You can reach me at: wali6985@gmail.com
   - 💼 _I'm actively seeking internship opportunities._
