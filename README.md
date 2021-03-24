@@ -5,9 +5,9 @@
 
 ## 📚 About Me:
 <a href="https://github.com/SABERGLOW/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
-  - 👨‍💻 I'm a Developer Intern at <a href = "https://corporate.exxonmobil.com/"> ExxonMobil </a>.
-  - 👨‍💻 I'm an Online Tutor at <a href = "https://www.hkcodingcamp.com/"> HK Coding Camp </a>.
-  - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK </a>.
+  - 👨‍💻 I'm a Developer Intern at <a href = "https://corporate.exxonmobil.com/"> ExxonMobil</a>.
+  - 👨‍💻 I'm an Online Tutor at <a href = "https://www.hkcodingcamp.com/"> HK Coding Camp</a>.
+  - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2022.
   - 🎯 I've recently completed <a href="https://coursera.org/share/b8709fe113bbc82aae93f6b7cbae4427"> SE Fundamentals Specialization in Java Programming at Coursera</a>. ![100%](https://progress-bar.dev/100)
   - 🚀 I'm working on improving my project <a href = "https://github.com/SABERGLOW/Movie_Recommender_Engine"> Movie Recommender</a> which is a DIY Movie Recommender Engine and it's <a href="https://www.dukelearntoprogram.com//capstone/recommender.php?id=N4yFi2jPx5Xr7l">Web Application</a>.
