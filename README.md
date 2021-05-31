@@ -10,8 +10,6 @@
   - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2022.
   - 🎯 I've recently completed <a href="https://coursera.org/share/b8709fe113bbc82aae93f6b7cbae4427"> SE Fundamentals Specialization in Java Programming at Coursera</a>. ![100%](https://progress-bar.dev/100)
-  - 🚀 I'm working on improving my project <a href = "https://github.com/SABERGLOW/Movie_Recommender_Engine"> Movie Recommender</a> which is a DIY Movie Recommender Engine and it's <a href="https://www.dukelearntoprogram.com//capstone/recommender.php?id=N4yFi2jPx5Xr7l">Web Application</a>.
- 
   - 📧 You can reach me at: wali6985@gmail.com
 
 <p>&nbsp;</p>
