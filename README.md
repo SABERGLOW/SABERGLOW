@@ -34,7 +34,8 @@
 <img src="https://preview.redd.it/9j29mcwvdv921.png?width=512&format=png&auto=webp&s=df03e5e15a395b099581ce25b88c6470a28c0c8f" alt="photoshop" width="48" height="48"/> 
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/3dsMax.png" alt="3dsMax" width="48" height="48"/> 
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Azure%20DevOps.png" alt="AzureDevOps" width="48" height="48"/> 
+<!---<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Azure%20DevOps.png" alt="AzureDevOps" width="48" height="48"/>--->
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Azure.png" alt="Azure" width="48" height="48"/> 
   
 </div>
 
