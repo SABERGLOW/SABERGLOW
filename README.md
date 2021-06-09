@@ -54,21 +54,27 @@
 ## 📈 My Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
 <a href="https://github.com/SABERGLOW">
-  <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=gruvbox" /></a>
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&theme=vue-dark" /></a>
+
+<!---
+<a href="https://github.com/SABERGLOW/">
+  <img width = "100%"src="https://github-profile-trophy.vercel.app/?username=SABERGLOW&theme=nord&no-bg=true&row=7&no-frame=true" /></a>
+--->
+
   
 <p>&nbsp;</p>
 
 ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/SABERGLOW/Movie_Recommender_Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/Clrd.">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/Feedback_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/SONGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&theme=vue-dark" /></a>
 
   ---
