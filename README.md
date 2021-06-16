@@ -55,7 +55,7 @@
 <a href="https://github.com/SABERGLOW">
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&hide_border=true&line_height=24&&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&hide_border=true&card_width=375&theme=vue-dark" /></a>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&hide_border=true&card_width=380&theme=vue-dark" /></a>
 
 <!---
 <a href="https://github.com/SABERGLOW/">
