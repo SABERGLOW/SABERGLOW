@@ -53,9 +53,9 @@
 
 ## 📈 My Github Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <a href="https://github.com/SABERGLOW">
-  <img height="163px" src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&hide_border=true&line_height=24&&theme=vue-dark" /></a>
+  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&show_icons=true&hide_border=true&line_height=24&&theme=vue-dark" /></a>
 <a href="https://github.com/SABERGLOW/">
-  <img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&hide_border=true&card_width=380&theme=vue-dark" /></a>
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&layout=compact&hide_border=true&card_width=380&theme=vue-dark" /></a>
 
 <!---
 <a href="https://github.com/SABERGLOW/">
