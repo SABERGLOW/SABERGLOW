@@ -53,9 +53,12 @@
 
 ## 📈 My Github Stats:     <a href="https://github.com/SABERGLOW"> <img src="https://komarev.com/ghpvc/?username=SABERGLOW&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <a href="https://github.com/SABERGLOW">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
+  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=SABERGLOW&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
 <a href="https://github.com/SABERGLOW/">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&langs_count=6&layout=compact&hide_border=true&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABERGLOW&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
+<p align="center">
+<a href="https://github.com/SABERGLOW/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SABERGLOW&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
 
 <!--- TROPHIES
 <a href="https://github.com/SABERGLOW/">
@@ -68,12 +71,12 @@
 ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/SABERGLOW/Movie_Recommender_Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&theme=vue-dark" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Movie_Recommender_Engine&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
 <a href="https://github.com/SABERGLOW/Clrd.">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&theme=vue-dark" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Clrd.&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
 <a href="https://github.com/SABERGLOW/Feedback_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&theme=vue-dark" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=Feedback_Management_System&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
 <a href="https://github.com/SABERGLOW/SONGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&theme=vue-dark" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SONGS&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
 
   ---
