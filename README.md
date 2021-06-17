@@ -1,4 +1,4 @@
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/title_banner_waliullah.gif" width=100%  align="left"/>
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/title_banner_waliullah.gif" />
 
 <!--**SABERGLOW/SABERGLOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p>&nbsp;</p>
