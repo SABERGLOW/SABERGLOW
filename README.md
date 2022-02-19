@@ -9,7 +9,7 @@
   - 👨‍💻 I'm an Online Tutor at <a href = "https://www.hkcodingcamp.com/"> HK Coding Camp</a>.
   - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2023.
-  - 🎯 I'm recently working on my Home Automation/IOT project: <a href="https://github.com/SABERGLOW/E-Butler"> E-Butler</a>.
+  - 🎯 I'm currently learning how to build awesome web applications with React.
   - 📧 You can reach me at: wali6985@gmail.com
 
 <p>&nbsp;</p>
