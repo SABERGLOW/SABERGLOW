@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-<a href="https://github.com/SABERGLOW/"><img align="right" width="300" height="300" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/codingsvg.svg"></a>
+<a href="https://github.com/SABERGLOW/"><img align="right" width="275" height="275" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/codingsvg.svg"></a>
   - 👨‍💻 I'm a Developer Intern at <a href = "https://corporate.exxonmobil.com/"> ExxonMobil</a>. [FrontEnd and DevOps]
   - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
   - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2023.
