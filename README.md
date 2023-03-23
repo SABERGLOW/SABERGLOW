@@ -5,9 +5,10 @@
 
 ## 📚 About Me:
 <a href="https://github.com/SABERGLOW/"><img align="right" width="350" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/codingsvg.svg"></a>
-  - 👨‍💻 I'm a Developer Intern at <a href = "https://corporate.exxonmobil.com/"> ExxonMobil</a>. [FrontEnd, DevOps, & QA]
-  - 👨‍🏫 I'm a Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
-  - 🎓 I'm a Computer Science Engineer graduate at BME, Budapest. Class of 2023.
+  - 👨‍💻 I'm a Fellow Engineer at <a href = "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients"> McKinsey Digital</a>. [Junior Software Developer]
+  - 👨‍💻 Ex Developer Intern at <a href = "https://corporate.exxonmobil.com/"> ExxonMobil</a>. [FrontEnd, DevOps, & QA]
+  - 👨‍🏫 Ex Student Mentor at <a href = "https://shmentor.hu/"> HÖOK</a>.
+  - 🎓 Computer Science Engineer graduate at BME, Budapest. Class of 2023.
   - 🎯 I'm currently learning how to build awesome web applications with React, Next, and Angular.
   - 📧 You can reach me at: wali6985@gmail.com
 
